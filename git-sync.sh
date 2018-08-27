@@ -25,3 +25,4 @@ gitlab create_project $GIT_REPO_NAME "{visibility_level: 20}"
 git remote set-url origin --add https://gitlab.com/${GIT_USER_NAME}/${GIT_REPO_NAME}.git
 git remote add origin-gitlab https://gitlab.com/${GIT_USER_NAME}/${GIT_REPO_NAME}.git
 git remote -v
+qweqwe
