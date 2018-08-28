@@ -27,4 +27,7 @@ git remote add origin-gitlab https://gitlab.com/${GIT_USER_NAME}/${GIT_REPO_NAME
 git remote -v
 qweqwe
 
-sdfsdf
+
+
+
+wefwefwefwe
